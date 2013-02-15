@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Scrape seiboncarbon.com
 
 Fields needed:
@@ -41,3 +42,7 @@ Special Notes: Off-road use only
 It's also needed the Years to be converted to a range of starting Year and Ending Year.
 
 No more than 2000 products in total.
+=======
+scrape_seiboncarbon
+===================
+>>>>>>> 2f4f7e43c3c9601d6d6febd8e2abe55736632c9c
