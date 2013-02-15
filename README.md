@@ -1,0 +1,43 @@
+Scrape seiboncarbon.com
+
+Fields needed:
+
+Breadcrumb: Home>>Products>>Carbon fiber h..
+Pictures:1-16
+Pricd: 3.600
+MetaTitle:
+MetaDesc:
+ProductName: Carbon fiber hardtop for ...
+SKU: HT0005HDS5k
+YEAR: 2010, 2009, 2008
+Make: HONDA
+Model: S2000
+BodyType: 2 Door
+Chassis: Ap1, Ap2
+CarbonType: Carbon Fiber Gloss Finish
+ProductCategory: Hard top
+Special Notes: Off-road use only
+
+It's also needed the Years to be converted to a range of starting Year and Ending YeaScrape seiboncarbon.com
+
+Fields needed:
+
+Breadcrumb: Home>>Products>>Carbon fiber h..
+Pictures:1-16
+Pricd: 3.600
+MetaTitle:
+MetaDesc:
+ProductName: Carbon fiber hardtop for ...
+SKU: HT0005HDS5k
+YEAR: 2010, 2009, 2008
+Make: HONDA
+Model: S2000
+BodyType: 2 Door
+Chassis: Ap1, Ap2
+CarbonType: Carbon Fiber Gloss Finish
+ProductCategory: Hard top
+Special Notes: Off-road use only
+
+It's also needed the Years to be converted to a range of starting Year and Ending Year.
+
+No more than 2000 products in total.
